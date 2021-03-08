@@ -1,0 +1,2 @@
+# Electricity-Bill-Management-System
+An application, which generates an e-bill using itext software which creates and manipulates PDF files. It captures basic information from the customer like name, address, meter number and stores it in MySQL database which is retrieved during the bill generation of the entered month by the customer. It provides the facility for the customer to be able to register any complaint regarding their meter and also allows the customer to pay the bill amount.  
