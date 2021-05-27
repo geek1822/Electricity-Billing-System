@@ -3,4 +3,4 @@ An application that captures basic information from the customer like name, addr
 
 
 # iText Library
-For generating e-bill in Portable Document Format the application uses iText library which is used for creatiing and manipulating PDF files in Java. 
+For generating e-bill in Portable Document Format the application uses iText library which is used for creating and manipulating PDF files in Java. 
